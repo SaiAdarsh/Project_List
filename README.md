@@ -7,6 +7,7 @@ I also included brief introductions as well as links to the GitHub repositories 
 
 * **Face Detection and Ranking Web Application** :  A face-detection app using React, Node and PostgreSQL. [Link to project](https://github.com/SaiAdarsh/Face_recognition)
 * **Robofriends**: A simple contacts app where a random robot face is generated for each contact. [Link to project](https://github.com/SaiAdarsh/RoboFriends)
+* **Library Management System**: Project involves creation of database host application that interfaces with a backend SQL database implementing a Library Management System. Users of this system are understood to be librarians.[Link to project](https://github.com/SaiAdarsh/Library_Management_system)
 * **Background Generator**: A simple background generator based on linear gradients.[Link to project](https://github.com/SaiAdarsh/Background_Generator)
 * **Secure Banking System**: An Online Banking Application prototype from scratch with features of Primary and Savings Account, Deposits and Withdrawals, Password Encryption, Transaction History and Appointment Booking.[Link to project](https://github.com/SaiAdarsh/Secure_Banking_System)
 * **Finite State Model**: A finite state model of a traffic-light controller and using the NuSMV symbolic model-checker verify its properties.[Link to project](https://github.com/SaiAdarsh/Finite-State-Model)
